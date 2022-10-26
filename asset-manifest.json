@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/onlineStore/static/css/main.4143a0ee.css",
-    "main.js": "/onlineStore/static/js/main.21a5c5a8.js",
+    "main.css": "/onlineStore/static/css/main.dfcef726.css",
+    "main.js": "/onlineStore/static/js/main.ab5c5543.js",
     "static/media/bulbasaur.png": "/onlineStore/static/media/bulbasaur.b27b52061376d61e8535.png",
     "static/media/poke_pika.png": "/onlineStore/static/media/poke_pika.6fe4f532a25ff00f0c40.png",
     "static/media/new_st.jpg": "/onlineStore/static/media/new_st.280d6c862233d4e6faa2.jpg",
     "static/media/squirtle.png": "/onlineStore/static/media/squirtle.ab6e401e1e172cb77707.png",
     "static/media/pokeball.png": "/onlineStore/static/media/pokeball.1e479e0a796e4778a069.png",
+    "static/media/secondPikaEsh.png": "/onlineStore/static/media/secondPikaEsh.a402f9b718744631786c.png",
     "static/media/pika_ech.png": "/onlineStore/static/media/pika_ech.81f0546ae96c3f46d1c8.png",
     "static/media/special_defense.png": "/onlineStore/static/media/special_defense.33548b6804aa90e0ec67.png",
     "static/media/shopping_cart.png": "/onlineStore/static/media/shopping_cart.cc89bb49219e8a3ed858.png",
     "index.html": "/onlineStore/index.html",
-    "main.4143a0ee.css.map": "/onlineStore/static/css/main.4143a0ee.css.map",
-    "main.21a5c5a8.js.map": "/onlineStore/static/js/main.21a5c5a8.js.map"
+    "main.dfcef726.css.map": "/onlineStore/static/css/main.dfcef726.css.map",
+    "main.ab5c5543.js.map": "/onlineStore/static/js/main.ab5c5543.js.map"
   },
   "entrypoints": [
-    "static/css/main.4143a0ee.css",
-    "static/js/main.21a5c5a8.js"
+    "static/css/main.dfcef726.css",
+    "static/js/main.ab5c5543.js"
   ]
 }
