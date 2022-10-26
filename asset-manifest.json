@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/onlineStore/static/css/main.c75dd06e.css",
-    "main.js": "/onlineStore/static/js/main.40f29c93.js",
+    "main.css": "/onlineStore/static/css/main.6cb142cc.css",
+    "main.js": "/onlineStore/static/js/main.0ed3c231.js",
     "static/media/bulbasaur.png": "/onlineStore/static/media/bulbasaur.b27b52061376d61e8535.png",
     "static/media/poke_pika.png": "/onlineStore/static/media/poke_pika.6fe4f532a25ff00f0c40.png",
     "static/media/new_st.jpg": "/onlineStore/static/media/new_st.280d6c862233d4e6faa2.jpg",
@@ -10,11 +10,11 @@
     "static/media/special_defense.png": "/onlineStore/static/media/special_defense.33548b6804aa90e0ec67.png",
     "static/media/shopping_cart.png": "/onlineStore/static/media/shopping_cart.cc89bb49219e8a3ed858.png",
     "index.html": "/onlineStore/index.html",
-    "main.c75dd06e.css.map": "/onlineStore/static/css/main.c75dd06e.css.map",
-    "main.40f29c93.js.map": "/onlineStore/static/js/main.40f29c93.js.map"
+    "main.6cb142cc.css.map": "/onlineStore/static/css/main.6cb142cc.css.map",
+    "main.0ed3c231.js.map": "/onlineStore/static/js/main.0ed3c231.js.map"
   },
   "entrypoints": [
-    "static/css/main.c75dd06e.css",
-    "static/js/main.40f29c93.js"
+    "static/css/main.6cb142cc.css",
+    "static/js/main.0ed3c231.js"
   ]
 }
